@@ -52,7 +52,7 @@ const generatedMaze = mazegeneration(options);
 To get the string representation of the generated maze write:
 ```javascript
 const stringRepresentation = generatedMaze.toString();
-console.log(stringRepresenation);
+console.log(stringRepresentation);
 ```
 
 Example output:
